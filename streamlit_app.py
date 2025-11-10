@@ -80,7 +80,7 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     labels[1]:{"texts":["윤석열은 제 20대 대통령이다."]},
     labels[2]:{"texts":["이명박은 제 17대 대통령이다."]},
     labels[3]:{"texts":["이승만은 제 1~3대 대통령이다."]},
-    }
+}
 
 
 

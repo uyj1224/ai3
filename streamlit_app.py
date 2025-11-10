@@ -75,10 +75,11 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     #   "videos": ["https://youtu.be/XXXXXXXXXXX"]
     # },
 
-    labels[0]:{"texts":["박정희는 대한민국 제5~9대 대통령이다."]},          
-    labels[1]:{"texts":["윤석열은 제 20대 대통령이다."]},
-    labels[2]:{"texts":["이명박은 제 17대 대통령이다."]},
-    labels[3]:{"texts":["이승만은 제 1~3대 대통령이다."]},
+    labels[0]:{"texts":["박정희는 대한민국 제5~9대 대통령이다."],
+              ""vidoes:[https://www.youtube.com/watch?v=SklSVW061qE]},          
+    labels[1]:{"texts":["윤석열은 제 20대 대통령이다."],},
+    labels[2]:{"texts":["이명박은 제 17대 대통령이다."],},
+    labels[3]:{"texts":["이승만은 제 1~3대 대통령이다."],},
 }
 
 

@@ -76,7 +76,7 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     # },
 
     labels[0]:{"texts":["박정희는 대한민국 제5~9대 대통령이다."],
-              "videos":["https://www.youtube.com/watch?v=SklSVW061qE"]
+              "videos":["https://www.youtube.com/watch?v=SklSVW061qE"],
               "images":["http://monthly.chosun.com/client/news/viw.asp?ctcd=I&nNewsNumb=201611100030"]
               },          
     labels[1]:{"texts":["윤석열은 제 20대 대통령이다."],

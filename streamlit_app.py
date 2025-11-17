@@ -80,11 +80,17 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
               "images":["http://monthly.chosun.com/client/news/viw.asp?ctcd=I&nNewsNumb=201611100030"]
               },          
     labels[1]:{"texts":["윤석열은 제 20대 대통령이다."],
-              "videos":["https://www.youtube.com/watch?v=CgypNHvVsq8"]},
+              "videos":["https://www.youtube.com/watch?v=CgypNHvVsq8"]
+              "images":["https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Fsukyeol.yoon%2F&psig=AOvVaw3pcnQdKbFPpAkZfZ6hLWk8&ust=1763436509855000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCND-lIif-JADFQAAAAAdAAAAABAE"]
+              },
     labels[2]:{"texts":["이명박은 제 17대 대통령이다."],
-              "videos":["https://www.youtube.com/watch?v=GTSqsGfaMJg"]},
+              "videos":["https://www.youtube.com/watch?v=GTSqsGfaMJg"]
+              "images":["https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.straitstimes.com%2Fasia%2Feast-asia%2Flee-myung-bak-from-businessman-to-seoul-mayor-and-president&psig=AOvVaw28CCmp7S29ks-pYJB869Wq&ust=1763436536165000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJiwrJSf-JADFQAAAAAdAAAAABAE"]
+              },
     labels[3]:{"texts":["이승만은 제 1~3대 대통령이다."],
-              "videos":["https://www.youtube.com/shorts/Phho_HblBN4"]},
+              "videos":["https://www.youtube.com/shorts/Phho_HblBN4"]
+              "images":["https://www.google.com/url?sa=i&url=https%3A%2F%2Fko.wikipedia.org%2Fwiki%2F%25EC%259D%25B4%25EC%258A%25B9%25EB%25A7%258C&psig=AOvVaw2vkc6EDYZzwwgEzFeHAD5Q&ust=1763436553070000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPiEmJyf-JADFQAAAAAdAAAAABAK"]
+              },
 }
 
 
